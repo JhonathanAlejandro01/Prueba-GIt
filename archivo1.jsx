@@ -1,2 +1,2 @@
 "archivo 1"
-"probando commit insertar"
+"probando commit insertar = no aparece origin/rama1"
